@@ -1,11 +1,12 @@
-
-language_key = 'EVErnyTVZwTGkVSp8ElK05Mr4abGgZ8GhDZpPHbd80yRKWNtVU0DJQQJ99BAACGhslBXJ3w3AAAaACOGQTpW'
-language_endpoint = 'https://mylanguageresource123.cognitiveservices.azure.com/'
+ # This example requires variables named "LANGUAGE_KEY" and "LANGUAGE_ENDPOINT"
+language_key = 'LANGUAGE_KEY'
+language_endpoint = 'LANGUAGE_ENDPOINT'
 
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 
 # Authenticate the client using your key and endpoint 
+
 def authenticate_client():
     ta_credential = AzureKeyCredential(language_key)
     text_analytics_client = TextAnalyticsClient(
