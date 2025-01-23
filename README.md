@@ -28,7 +28,7 @@ pip install azure-ai-textanalytics
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/payal8parkhe/ai.git
 ```
 
 2. Navigate to the project directory:
