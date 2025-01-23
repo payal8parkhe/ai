@@ -39,8 +39,6 @@ cd ai
 3. Set up your Azure credentials 'language_key' and 'language_endpoint' in the each file. You will need to provide your API key and endpoint URL.
 
 ## File Descriptions
-
-- **credential.py**: Contains the Azure API key and endpoint configuration. This file should be kept secure and not shared publicly.
   
 - **sentimentAnalysis.py**: Implements sentiment analysis using Azure's Text Analytics service. It analyzes the sentiment of provided text and outputs the results.
 
