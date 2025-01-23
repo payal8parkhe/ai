@@ -34,7 +34,7 @@ git clone https://github.com/payal8parkhe/ai.git
 2. Navigate to the project directory:
 
 ```bash
-cd your-repository-name
+cd ai
 ```
 
 3. Set up your Azure credentials in the `credential.py` file. You will need to provide your API key and endpoint URL.
