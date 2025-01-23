@@ -9,7 +9,6 @@ This repository contains hands-on examples for implementing Azure AI Cognitive S
 - [Installation](#installation)
 - [File Descriptions](#file-descriptions)
 - [Usage](#usage)
-- [License](#license)
 
 ## Prerequisites
 
@@ -37,7 +36,7 @@ git clone https://github.com/payal8parkhe/ai.git
 cd ai
 ```
 
-3. Set up your Azure credentials in the `credential.py` file. You will need to provide your API key and endpoint URL.
+3. Set up your Azure credentials 'language_key' and 'language_endpoint' in the each file. You will need to provide your API key and endpoint URL.
 
 ## File Descriptions
 
