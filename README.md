@@ -50,7 +50,7 @@ cd ai
 
 To use the scripts, follow these steps:
 
-1. Ensure you have set your Azure credentials in `credential.py`.
+1. Ensure you have set your Azure credentials API Key and endpoint URL.
 2. Run the desired script using Python. For example, to run the sentiment analysis script, use:
 
 ```bash
